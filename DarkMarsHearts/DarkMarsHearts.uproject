@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.21",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SpiderNavigation",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9061da2ec4df457dbce7c416381896d5"
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		}
+	]
+}
