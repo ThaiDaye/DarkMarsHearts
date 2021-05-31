@@ -12,6 +12,10 @@
 		{
 			"Name": "SteamVR",
 			"Enabled": false
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
 		}
 	]
 }
