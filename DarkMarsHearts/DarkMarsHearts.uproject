@@ -16,6 +16,10 @@
 		{
 			"Name": "Niagara",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
