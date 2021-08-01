@@ -1,0 +1,1702 @@
+[
+	{
+		"Name": "000",
+		"Entity Name": "Mineral Entity",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.5,
+					"Y": 0.5,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 25,
+				"Y": 25,
+				"Z": 25
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1.25,
+		"Mass": 50,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_0.EntityID_0'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Game/Meshes/1M_Cube.1M_Cube'",
+			"StaticMesh'/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -200,
+		"Burning Point": 9999999,
+		"Melting Point": 1000,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "001",
+		"Entity Name": "Synthetic Entity",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.5,
+					"Y": 0.5,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 25,
+				"Y": 25,
+				"Z": 25
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Synthetic",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1,
+		"Mass": 50,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_1.EntityID_1'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Game/Meshes/1M_Cube.1M_Cube'",
+			"StaticMesh'/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -20,
+		"Burning Point": 550,
+		"Melting Point": 9999999,
+		"Flammability": "Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "002",
+		"Entity Name": "Organic Entity",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.5,
+					"Y": 0.5,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 25,
+				"Y": 25,
+				"Z": 25
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Organic",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1,
+		"Mass": 50,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_2.EntityID_2'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Game/Meshes/1M_Cube.1M_Cube'",
+			"StaticMesh'/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -10,
+		"Burning Point": 200,
+		"Melting Point": 9999999,
+		"Flammability": "Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "003",
+		"Entity Name": "Martian Entity",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.5,
+					"Y": 0.5,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 25,
+				"Y": 25,
+				"Z": 25
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Martian",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1.5,
+		"Mass": 50,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_3.EntityID_3'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Game/Meshes/1M_Cube.1M_Cube'",
+			"StaticMesh'/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Rust_Liquid.PhysicalMaterial_Mat_Rust_Liquid'",
+		"Temperature": 0,
+		"FreezingPoint": -100,
+		"Burning Point": 250,
+		"Melting Point": 1000,
+		"Flammability": "Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "004",
+		"Entity Name": "Whiteboard",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.05000000074505806,
+					"Y": 1,
+					"Z": 0.80000001192092896
+				}
+			},
+			"Box Extents":
+			{
+				"X": 5,
+				"Y": 50,
+				"Z": 40
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/WhiteBoard_BP.WhiteBoard_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1,
+		"Mass": 130,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_4.EntityID_4'",
+		"Visual States": [
+			"StaticMesh'/Game/Meshes/1M_Cube.1M_Cube'",
+			"StaticMesh'/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_White.PhysicalMaterial_Mat_White'",
+		"Temperature": 0,
+		"FreezingPoint": -10,
+		"Burning Point": 200,
+		"Melting Point": 9999999,
+		"Flammability": "Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "Custom",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "005",
+		"Entity Name": "Broom",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 3.5762786865234375e-07,
+					"Y": -0.99999988079071045,
+					"Z": -3.5762786865234375e-07,
+					"W": -1.1920914033680674e-07
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -5
+				},
+				"Scale3D":
+				{
+					"X": 0.5,
+					"Y": 0.5,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 8,
+				"Y": 8,
+				"Z": 80
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 220,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1,
+		"Mass": 50,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_5.EntityID_5'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Game/Meshes/Broom_mesh.Broom_mesh'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -10,
+		"Burning Point": 200,
+		"Melting Point": 9999999,
+		"Flammability": "Flammable",
+		"Hydro Reaction": "Hydrophillic",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": true,
+		"ToolLength": 400,
+		"ToolHitRadius": 50,
+		"ToolMultiHit": 1
+	},
+	{
+		"Name": "006",
+		"Entity Name": "Metal Door",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 1.5795940160751343,
+					"Y": 0.17499999701976776,
+					"Z": 2.1930708885192871
+				}
+			},
+			"Box Extents":
+			{
+				"X": 80,
+				"Y": 10,
+				"Z": 110
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": false,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 500,
+		"Max Durability": 500,
+		"Density": 1.25,
+		"Mass": 200,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_6.EntityID_6'",
+		"Visual States": [
+			"StaticMesh'/Game/Meshes/1M_Cube.1M_Cube'",
+			"StaticMesh'/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -200,
+		"Burning Point": 9999999,
+		"Melting Point": 1000,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "Move Location",
+		"Interact Action Move":
+		{
+			"X": -160,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "007",
+		"Entity Name": "Metal Grate",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 1.2999999523162842,
+					"Y": 0.17499999701976776,
+					"Z": 1.2999999523162842
+				}
+			},
+			"Box Extents":
+			{
+				"X": 65,
+				"Y": 10,
+				"Z": 65
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1.25,
+		"Mass": 100,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_7.EntityID_7'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Game/Meshes/1M_Cube.1M_Cube'",
+			"StaticMesh'/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -200,
+		"Burning Point": 9999999,
+		"Melting Point": 1000,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "Move Location",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 125
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "008",
+		"Entity Name": "Button",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.5,
+					"Y": 0.5,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 25,
+				"Y": 25,
+				"Z": 25
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1.25,
+		"Mass": 25,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_8.EntityID_8'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Game/Meshes/1M_Cube.1M_Cube'",
+			"StaticMesh'/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -200,
+		"Burning Point": 9999999,
+		"Melting Point": 1000,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "Proxy Input",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "009",
+		"Entity Name": "Bowling Ball",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.5,
+					"Y": 0.5,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"Sphere Radius": 25,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Synthetic",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1.25,
+		"Mass": 100,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_9.EntityID_9'",
+		"Visual States": [
+			"StaticMesh'/Game/StarterContent/Props/MaterialSphere.MaterialSphere'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -20,
+		"Burning Point": 550,
+		"Melting Point": 9999999,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Low",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "010",
+		"Entity Name": "Basket Ball",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.5,
+					"Y": 0.5,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"Sphere Radius": 25,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Synthetic",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1,
+		"Mass": 100,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_10.EntityID_10'",
+		"Visual States": [
+			"StaticMesh'/Game/StarterContent/Props/MaterialSphere.MaterialSphere'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -20,
+		"Burning Point": 550,
+		"Melting Point": 9999999,
+		"Flammability": "Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "High",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "011",
+		"Entity Name": "Bowling Pin",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.14367899298667908,
+					"Y": 0.14367899298667908,
+					"Z": 0.25
+				}
+			},
+			"Box Extents":
+			{
+				"X": 15,
+				"Y": 15,
+				"Z": 32
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Synthetic",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 20,
+		"Max Durability": 20,
+		"Density": 1,
+		"Mass": 10,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_11.EntityID_11'",
+		"Visual States": [
+			"StaticMesh'/Engine/EditorMeshes/EditorCylinder.EditorCylinder'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_White.PhysicalMaterial_Mat_White'",
+		"Temperature": 0,
+		"FreezingPoint": -20,
+		"Burning Point": 550,
+		"Melting Point": 9999999,
+		"Flammability": "Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "012",
+		"Entity Name": "Lily Statue",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.70710837841033936,
+					"W": 0.70710515975952148
+				},
+				"Translation":
+				{
+					"X": 10,
+					"Y": -0.88887900114059448,
+					"Z": -50
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"Box Extents":
+			{
+				"X": 48.231536865234375,
+				"Y": 30.563241958618164,
+				"Z": 75.878761291503906
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Synthetic",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1,
+		"Mass": 230,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_12.EntityID_12'",
+		"Visual States": [
+			"StaticMesh'/Game/Meshes/LilyStatue.LilyStatue'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default2.PhysicalMaterial_Mat_Default2'",
+		"Temperature": 0,
+		"FreezingPoint": -20,
+		"Burning Point": 550,
+		"Melting Point": 9999999,
+		"Flammability": "Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "013",
+		"Entity Name": "Glass Bottle",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.2199999988079071,
+					"Y": 0.2199999988079071,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 11,
+				"Y": 11,
+				"Z": 25
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Glass",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": true,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 5,
+		"Max Durability": 5,
+		"Density": 1,
+		"Mass": 30,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_13.EntityID_13'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cylinder.Cylinder'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/TransparentMaterial_Mat_Default1.TransparentMaterial_Mat_Default1'",
+		"Temperature": 0,
+		"FreezingPoint": 0,
+		"Burning Point": 100,
+		"Melting Point": 1000,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Hydrophobic",
+		"Friction": "Low",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "Water",
+		"Liquid Storage Capacity": 20,
+		"Liquid Storage Max": 20,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": true,
+		"ToolLength": 150,
+		"ToolHitRadius": 10,
+		"ToolMultiHit": 1
+	},
+	{
+		"Name": "014",
+		"Entity Name": "Molotov Bottle",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.2199999988079071,
+					"Y": 0.2199999988079071,
+					"Z": 0.5
+				}
+			},
+			"Box Extents":
+			{
+				"X": 11,
+				"Y": 11,
+				"Z": 25
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Glass",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": true,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 5,
+		"Max Durability": 5,
+		"Density": 1,
+		"Mass": 30,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_14.EntityID_14'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cylinder.Cylinder'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/TransparentMaterial_Mat_Default2.TransparentMaterial_Mat_Default2'",
+		"Temperature": 0,
+		"FreezingPoint": 0,
+		"Burning Point": 100,
+		"Melting Point": 1000,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Hydrophobic",
+		"Friction": "Low",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "Oil",
+		"Liquid Storage Capacity": 20,
+		"Liquid Storage Max": 20,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": true,
+		"ToolLength": 150,
+		"ToolHitRadius": 10,
+		"ToolMultiHit": 1
+	},
+	{
+		"Name": "015",
+		"Entity Name": "Balloon",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 30
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"Box Extents":
+			{
+				"X": 15,
+				"Y": 15,
+				"Z": 30
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Synthetic",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": true,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 25,
+		"Max Durability": 25,
+		"Density": 0.10000000149011612,
+		"Mass": 25,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_15.EntityID_15'",
+		"Visual States": [
+			"StaticMesh'/Game/Meshes/Balloon_Mesh.Balloon_Mesh'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -20,
+		"Burning Point": 550,
+		"Melting Point": 9999999,
+		"Flammability": "Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "High",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "Hydrogen (bouyant)",
+		"Gas Storage Capacity": 50,
+		"Gas Storage Max": 50,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "016",
+		"Entity Name": "Explosive Canister",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.5,
+					"Y": 0.5,
+					"Z": 1.1499999761581421
+				}
+			},
+			"Box Extents":
+			{
+				"X": 25,
+				"Y": 25,
+				"Z": 58
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 50,
+		"Max Durability": 50,
+		"Density": 1,
+		"Mass": 150,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_16.EntityID_16'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Engine/BasicShapes/Cylinder.Cylinder'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": 0,
+		"Burning Point": 100,
+		"Melting Point": 1000,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "Hydrogen (bouyant)",
+		"Gas Storage Capacity": 400,
+		"Gas Storage Max": 500,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "017",
+		"Entity Name": "Oil Drum",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1.1499999761581421
+				}
+			},
+			"Box Extents":
+			{
+				"X": 47.5,
+				"Y": 47.5,
+				"Z": 60
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 75,
+		"Max Durability": 75,
+		"Density": 1,
+		"Mass": 150,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_17.EntityID_17'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Engine/BasicShapes/Cylinder.Cylinder'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": 0,
+		"Burning Point": 100,
+		"Melting Point": 1000,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "Hydrogen (bouyant)",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "Oil",
+		"Liquid Storage Capacity": 300,
+		"Liquid Storage Max": 500,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	},
+	{
+		"Name": "018",
+		"Entity Name": "Wrench",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 0.045000001788139343,
+					"Y": 0.045000001788139343,
+					"Z": 0.26499998569488525
+				}
+			},
+			"Box Extents":
+			{
+				"X": 5,
+				"Y": 5,
+				"Z": 35
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 2000,
+		"Max Durability": 2000,
+		"Density": 1.25,
+		"Mass": 35,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_18.EntityID_18'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Engine/EditorMeshes/EditorCylinder.EditorCylinder'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default1.PhysicalMaterial_Mat_Default1'",
+		"Temperature": 0,
+		"FreezingPoint": -200,
+		"Burning Point": 300,
+		"Melting Point": 1500,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "None",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"IsTool": true,
+		"ToolLength": 350,
+		"ToolHitRadius": 25,
+		"ToolMultiHit": 1
+	},
+		{
+		"Name": "019",
+		"Entity Name": "Glass Window",
+		"Construct Data":
+		{
+			"Transforms":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"Scale3D":
+				{
+					"X": 1.2999999523162842,
+					"Y": 0.17499999701976776,
+					"Z": 1.2999999523162842
+				}
+			},
+			"Box Extents":
+			{
+				"X": 65,
+				"Y": 10,
+				"Z": 65
+			},
+			"Sphere Radius": 0,
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Entities/Entity_BP.Entity_BP_C'"
+		},
+		"SolidType": "Mineral",
+		"DontShowUI": false,
+		"CantGrab": false,
+		"DestroyOnNoDurability": false,
+		"CanDirectInteract": true,
+		"GrabRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"Durability": 100,
+		"Max Durability": 100,
+		"Density": 1.25,
+		"Mass": 100,
+		"EntityIcon": "Texture2D'/Game/Blueprints/UI/EntityIcons/EntityID_7.EntityID_7'",
+		"Visual States": [
+			"StaticMesh'/Engine/BasicShapes/Cone.Cone'",
+			"StaticMesh'/Game/Meshes/1M_Cube.1M_Cube'",
+			"StaticMesh'/Game/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer'"
+		],
+		"Visual Material": "MaterialInstanceConstant'/Game/Materials/PhysicalMaterial_Mat_Default.PhysicalMaterial_Mat_Default'",
+		"Temperature": 0,
+		"FreezingPoint": -200,
+		"Burning Point": 9999999,
+		"Melting Point": 1000,
+		"Flammability": "Non-Flammable",
+		"Hydro Reaction": "Normal",
+		"Friction": "Normal",
+		"Bounciness": "Normal",
+		"Wetness Type": "None",
+		"Wetness": 0,
+		"Gas Storage Type": "None",
+		"Gas Storage Capacity": 0,
+		"Gas Storage Max": 0,
+		"Liquid Storage Type": "None",
+		"Liquid Storage Capacity": 0,
+		"Liquid Storage Max": 0,
+		"Interact Action": "Move Location",
+		"Interact Action Move":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 125
+		},
+		"IsTool": false,
+		"ToolLength": 0,
+		"ToolHitRadius": 0,
+		"ToolMultiHit": 0
+	}
+]
